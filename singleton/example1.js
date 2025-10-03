@@ -1,5 +1,3 @@
-
-
 function Counter() {
     let instance = null;
     let counter = 0;
